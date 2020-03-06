@@ -2,7 +2,7 @@
 
 SAC is Canada's research conference on cryptography, held annually since 1994. The 27th edition of SAC will take place at Dalhousie University in Halifax, Canada from August 12-14, 2020, and will be preceded by the SAC Summer School on August 10 and 11, 2020. 
 
-<img src="images/halifax1.jpg" width=400>
+<img src="http://colinoflynn.github.io/sac2020/images/halifax1.jpg" width=400>
 
 SAC 2020 is held in co-operation with the International Association for Cryptologic Research (IACR), which is the leading professional organization for cryptographic research.
 
