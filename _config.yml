@@ -8,3 +8,4 @@ description: >
   <a href="https://www.sacworkshop.org">Previous SACs</a> 
 
 theme: jekyll-theme-minimal
+show_downloads: False
