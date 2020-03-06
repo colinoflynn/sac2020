@@ -6,6 +6,5 @@ description: >
   Halifax, NS 
   <br><br>
   <a href="https://www.sacworkshop.org">Previous SACs</a> 
-
-theme: jekyll-theme-minimal
 show_downloads: False
+theme: jekyll-theme-minimal
