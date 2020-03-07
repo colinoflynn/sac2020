@@ -13,7 +13,7 @@ SAC 2020 is held in co-operation with the International Association for Cryptolo
 
 ## Important Dates
 
-* **Paper submission deadline:**   TBD, 2020
+* **Paper submission deadline:**   (Early May, TBD)
 * **Notification of decision:**   TBD, 2020
 * **Pre-proceedings version deadline:**  TBD, 2020
 * **Conference dates:**   August 12-14, 2020
