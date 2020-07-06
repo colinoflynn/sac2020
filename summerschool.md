@@ -1,1 +1,3 @@
-#'Summer' School
+# 'Summer' School
+
+Details coming soon!
