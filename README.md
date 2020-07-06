@@ -7,13 +7,14 @@ SAC 2020 is held in co-operation with the International Association for Cryptolo
 
 ## Co-Chairs
 
-* TBD
-* Colin O'Flynn, Dalhousie University
+* Michael J. Jacobson Jr. - University of Calgary
+* Orr Dunkelman – University of Haifa
+* Colin O'Flynn - Dalhousie University
 
 ## Important Dates
 
 * **Paper submission deadline:**  10th August, 2020
-* **Notification of decision:**   8th Sept, 2020
+* **Notification of decision:**   17th Sept, 2020
 * **Pre-proceedings version deadline:**  30th Sept, 2020
 * **Conference dates:**  
 
