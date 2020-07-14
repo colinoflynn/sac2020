@@ -1,5 +1,7 @@
 # Call for Papers
 
+[Download a PDF Version of the CFP](files/cfp_sac2020.pdf)
+
 The 27th Conference on Selected Areas in Cryptography (SAC 2020) will take place as an online  conference on October 21 -23, 2020, and will be preceded
 by the SAC "Summer" School on October 19-20, 2020. SAC 2020 is held in cooperation with the International Association for Cryptologic Research (IACR).
 
