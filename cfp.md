@@ -68,7 +68,7 @@ sanctioned and/or expelled from the event, at the discretion of the Chairs. Seri
 IACR Ethics Committee for further possible action as well as to the relevant enforcement agency. Any action will
 only be taken with the consent of the affected party subject to applicable laws.
 
-If you experience harassment or discriminatory behavior at SAC 2020, we encourage you to reach out to either of the
+If you experience harassment or discriminatory behavior at SAC 2020, we encourage you to reach out to any of the
 SAC 2020 Chairs.
 
 If you witness harassment or discriminatory behavior, please consider intervening.
