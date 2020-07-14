@@ -75,7 +75,7 @@ If you witness harassment or discriminatory behavior, please consider intervenin
 
 ## Important Dates ##
 
-* Submission deadline: Tuesday, August 11 2020, 23:59:59 UTC-1200 – No extensions! [https://www.timeanddate.com/worldclock/fixedtime.html?msg=Selected+Areas+in+Cryptography+2020+submission+deadline&iso=20200811T235959&p1=3926](Convert to local time)
+* Submission deadline: Tuesday, August 11 2020, 23:59:59 UTC-1200 – No extensions! < a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Selected+Areas+in+Cryptography+2020+submission+deadline&iso=20200811T235959&p1=3926">Convert to local time</a>.
 * Notification: Thursday September 17 2020
 * Pre-proceedings version deadline: Thursday October 8 2020
 * SAC Summer School: Monday 19 – Tuesday 20 October 2020
