@@ -16,7 +16,7 @@ functions, MAC algorithms, and authenticated encryption schemes.
 
 3. Mathematical and algorithmic aspects of applied cryptology.
 
-In addition, the following topic as the special topic for SAC 2020:
+   In addition, the following topic as the special topic for SAC 2020:
 
 4. Secure Elections and Related Cryptographic Constructions
 SAC 2020 also welcomes papers in any of the areas above with a focus on post-quantum cryptography.
@@ -27,8 +27,8 @@ The SAC 2020 proceedings will be published by Springer in the Lecture Notes in C
 * Papers must be submitted electronically; the submission link will be made available at https://sac2020.ca/.
 Late submissions, submissions by email, or hardcopy submissions will not be accepted.
 * Submissions must be anonymous, with no author names, affiliations, acknowledgments or obvious references.
-* Papers must be typeset using [LaTeX in the LNCS style](https://www.springer.com/gp/computer-science/
-lncs/conference-proceedings-guidelines) with no alterations to font size or margins, with the exception
+* Papers must be typeset using [LaTeX in the LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+with no alterations to font size or margins, with the exception
 of using `\pagestyle{plain}` to add page numbers. The main body of the paper must be at most 20 pages in
 length including bibliography. It is possible to have clearly marked appendices, as long as the total length of
 the paper does not exceed 30 pages. Program Committee members are not required to read appendices, so the
