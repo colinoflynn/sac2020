@@ -14,7 +14,7 @@ SAC 2020 is held in co-operation with the International Association for Cryptolo
 
 ## Important Dates
 
-* **Paper submission deadline:**  11th August, 2020
+* **Paper submission deadline:**  11th August, 2020, 23:59:59 UTC-1200 – No extensions! <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Selected+Areas+in+Cryptography+2020+submission+deadline&iso=20200811T235959&p1=3926">Convert to local time</a>.
 * **Notification of decision:**   17th Sept, 2020
 * **Pre-proceedings version deadline:**  8th Oct, 2020
 * **'Summer' School**: 19/20 October, 2020
