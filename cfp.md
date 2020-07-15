@@ -5,7 +5,7 @@
 The 27th Conference on Selected Areas in Cryptography (SAC 2020) will take place as an online  conference on October 21 -23, 2020, and will be preceded
 by the SAC "Summer" School on October 19-20, 2020. SAC 2020 is held in cooperation with the International Association for Cryptologic Research (IACR).
 
-## Topics
+## Topics & Proceedings
 
 Authors are encouraged to submit original papers related to the following three regular topics for SAC 2020:
 
@@ -18,8 +18,10 @@ functions, MAC algorithms, and authenticated encryption schemes.
 
    In addition, the following topic as the special topic for SAC 2020:
 
-4. Secure Elections and Related Cryptographic Constructions
+4. Secure Elections and Related Cryptographic Constructions.
+
 SAC 2020 also welcomes papers in any of the areas above with a focus on post-quantum cryptography.
+
 The SAC 2020 proceedings will be published by Springer in the Lecture Notes in Computer Science series.
 
 ## Instructions for Authors
