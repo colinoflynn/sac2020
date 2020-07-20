@@ -126,6 +126,7 @@ If you witness harassment or discriminatory behavior, please consider intervenin
 * Djiby Sow, Cheikh Anta Diop University, Senegal
 * Martijn Stam, Simula UiB, Norway
 * Douglas Stebila, University of Waterloo, Canada
+* Vanessa Teague, Australian National University and Thinking Cybersecurity, Australia
 * Yosuke Todo, NTT Secure Platform Laboratories, Japan
 * Yuntao Wang, Japan Advanced Institute of Science and Technology, Japan
 * Huapeng Wu, University of Windsor, Canada
