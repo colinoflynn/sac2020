@@ -26,7 +26,7 @@ The SAC 2020 proceedings will be published by Springer in the Lecture Notes in C
 
 ## Instructions for Authors
 
-* Papers must be submitted electronically; the submission link will be made available at https://sac2020.ca/.
+* Papers must be submitted electronically at <a href="https://sac2020.cs.haifa.ac.il/"> https://sac2020.cs.haifa.ac.il/ </a> to submit your paper.
 Late submissions, submissions by email, or hardcopy submissions will not be accepted.
 * Submissions must be anonymous, with no author names, affiliations, acknowledgments or obvious references.
 * Papers must be typeset using [LaTeX in the LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
@@ -76,6 +76,10 @@ If you experience harassment or discriminatory behavior at SAC 2020, we encourag
 SAC 2020 Chairs.
 
 If you witness harassment or discriminatory behavior, please consider intervening.
+
+### Submission Link ###
+
+Please use the submission process at <a href="https://sac2020.cs.haifa.ac.il/"> https://sac2020.cs.haifa.ac.il/ </a> to submit your paper.
 
 ## Important Dates ##
 
