@@ -3,8 +3,9 @@ logo: "/images/sac2020.png?raw=true" # your photo (or logo) here
 description: >
   Cyberweb - Oct 19-23, 2020<br><br>
   <a href="cfp.html"><b>Call for Papers</b></a><br>
+  <a href="https://sac2020.cs.haifa.ac.il/"><b>Paper Submission</b></a><br>
   <a href="pc.html"><b>Program Committee</b></a><br>
   <b>Program</b> (Coming Soon!)<br>
   <a href="summerschool.html"><b>Summer School</b></a><br>
-  <a href="https://www.sacworkshop.org">Previous SACs</a> 
+  <a href="https://www.sacworkshop.org">Previous SACs</a>
 theme: jekyll-theme-minimal
