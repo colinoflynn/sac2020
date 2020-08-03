@@ -114,7 +114,6 @@ Please use the submission process at <a href="https://sac2020.cs.haifa.ac.il/"> 
 * Kalikinkar Mandal, University of New Brunswick, Canada
 * Atefeh Mashatan, Ryerson University, Canada
 * Barbara Masucci, University of Salerno, Italy
-* Noman Mohammed, University of Manitoba, Canada
 * Abderrahmane Nitaj, University of Caen Normandy, France
 * Colin O’Flynn (co-chair), Dalhouise University, Canada
 * Christiane Peters, IBM, Belgium
