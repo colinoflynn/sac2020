@@ -1,11 +1,13 @@
 title: SAC2020 Conference
 logo: "/images/sac2020.png?raw=true" # your photo (or logo) here
 description: >
-  Cyberweb - Oct 19-23, 2020<br><br>
-  <a href="cfp.html"><b>Call for Papers</b></a><br>
-  <a href="https://sac2020.cs.haifa.ac.il/"><b>Paper Submission</b></a><br>
+  Cyberweb - Oct 19-23, 2020<br><br>  
   <a href="pc.html"><b>Program Committee</b></a><br>
+  <a href="papers.html"><b>Accepted Papers</b></a><br>
+  <a href="registration.html"><b>Registration</b></a><br>
   <b>Program</b> (Coming Soon!)<br>
   <a href="summerschool.html"><b>Summer School</b></a><br>
+ <a href="cfp.html">Call for Papers</b><br>
+ <a href="https://sac2020.cs.haifa.ac.il/">Paper Submission</a><br>
   <a href="https://www.sacworkshop.org">Previous SACs</a>
 theme: jekyll-theme-minimal
