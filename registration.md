@@ -1,4 +1,4 @@
-# Registration for SAC2020
+## Registration for SAC2020
 
 There will be no cost to registration for SAC2020. 
 
