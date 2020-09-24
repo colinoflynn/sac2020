@@ -1,5 +1,8 @@
 ## List of Accepted Papers
 
+The final list of accepted papers will be posted shortly.
+
+<!--
 We are pleased to annouce the following papers to be presented at SAC2020:
 
 #### Algebraic Key-Recovery Attacks on Reduced-Round Xoofff
@@ -83,3 +86,4 @@ Authors: Subhadeep Banik and Zhenzhen Bao and Takanori Isobe and Hiroyasu Kubo a
 #### Weak-Key Distinguishers for AES
 Authors: Lorenzo Grassi and Gregor Leander and Christian Rechberger and Cihangir Tezcan and Friedrich Wiemer
 
+-->
