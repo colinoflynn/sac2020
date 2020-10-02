@@ -59,7 +59,7 @@ Steven D. Galbraith (University of Auckland, New Zealand), Robert Granger (Unive
 Yunsi Fei (Northeastern University, USA), Guang Gong (University of Waterloo, Canada), Cheng Gongye (Northeastern University, USA), Kalikinkar Mandal (University of New Brunswick, Canada), Raghvendra Rohit (University of Waterloo, Canada), Tianhong Xu (Northeastern University, USA), Yunjie Yi (University of Waterloo, Canada), and Nusa Zidaric (University of Waterloo, Canada) 
 
 20. Nonce-Misuse Security of the SAEF Authenticated Encryption Mode
-Elena Andreeva (DTU Compute, Denmark), Amit Singh Bhati (imec-COSIC, KU Leuven, Belgium), and Damian Vizár (CSEM, Switzerland)
+Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), Amit Singh Bhati (imec-COSIC, KU Leuven, Belgium), and Damian Vizár (CSEM, Switzerland)
 
 21. Protecting the Privacy of Voters: New Definitions of Ballot Secrecy for E-Voting
 Ashley Fraser (Royal Holloway, University of London, UK) and Elizabeth A. Quaglia (Royal Holloway, University of London, UK)
@@ -71,7 +71,7 @@ Ashley Fraser (Royal Holloway, University of London, UK) and Elizabeth A. Quagli
 Guilherme Perin (Delft University of Technology, Netherlands) and Stjepan Picek (Delft University of Technology, Netherlands)
 
 24. Interpolation Cryptanalysis of UFNs with Low Degree Round Functions
-Arnab Roy (AAU Klagenfurt, Austria), Elena Andreeva (DTU, Denmark), and Ferdinand Sauer (KU Leuven, Belgium and KIT, Germany)
+Arnab Roy (AAU Klagenfurt, Austria), Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), and Ferdinand Sauer (KU Leuven, Belgium and KIT, Germany)
 
 25. Practical Isogeny-Based Key-exchange with Optimal Tightness
 Bor de Kock (NTNU - Norwegian University of Science and Technology, Norway), Kristian Gjøsteen (NTNU - Norwegian University of Science and Technology, Norway), and Mattia Veroni (NTNU - Norwegian University of Science and Technology, Norway)
