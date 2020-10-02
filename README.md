@@ -6,6 +6,14 @@ SAC is Canada's research conference on cryptography, held annually since 1994. T
 
 SAC 2020 is held in co-operation with the International Association for Cryptologic Research (IACR), which is the leading professional organization for cryptographic research.
 
+---
+**RECENT UPDATES**
+
+* October 1/2020 - Invited Talks & Summer School info posted.
+* Sept 24/2020 - List of Accepted Papers Published.
+
+---
+
 ## Co-Chairs
 
 * Michael J. Jacobson Jr. - University of Calgary
