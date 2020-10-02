@@ -1,6 +1,6 @@
 # Program
 
-See [List of Accepted Papers](acceptedpapers.html) for all papers that will be in the program.
+See [List of Accepted Papers](papers.html) for all papers that will be in the program.
 
 ## Invited Talk #1
 ### Trustless groups of unknown order
