@@ -5,8 +5,7 @@ Each session will be approximately 1 hour long, with 3-5 papers presented during
 
 * You will give a **5 min live presentation (paper overview)** during your session.
 * There will be a **20-30 min Live Q&A / Discussion** after all papers present their overview.
-
-A longer "full conference talk" will also be linked.
+* The longer "full conference talk" will also be linked, but not played during the session. Details of recording this are below.
 
 ### Recording Video
 
