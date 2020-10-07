@@ -28,7 +28,7 @@ In this lecture, we will discuss several aspects of polynomial equations and the
 
 ## Secure Elections
 
-### crypto help enhance democracy?
+### Can crypto help enhance democracy?
 
 **Jeremy Clark**, *Concordia University*
 
