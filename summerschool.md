@@ -21,7 +21,7 @@ signature schemes.
 
 ### Polynomial systems of equations and their cryptographic aspects
 
-**Antoine Joux**,  *Sorbonne Université*
+**Antoine Joux**,  *CISPA Helmholtz-Zentrum*
 
 In this lecture, we will discuss several aspects of polynomial equations and their use in cryptography. We will first motivate the topic be showing some uses of such systems in cryptography. Then, we will turn to the cryptanalytic aspects, describing algorithmic techniques to solve such systems. In this part, we start be recalling the easy special cases before turning to the general case of non-linear multivariate systems (over finite fields). We will discuss three different approaches, exhaustive search, algebraic methods (aka as Groebner bases or XL computations) and probabilistic degree reduction (introduced by Lokshtanov et al.).
 
