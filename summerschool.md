@@ -31,6 +31,7 @@ In this lecture, we will discuss several aspects of polynomial equations and the
 ### crypto help enhance democracy?
 
 **Jeremy Clark**, *Concordia University*
+
 **Vanessa Teague**,  *Thinking Cybersecurity and Australian National* University 
 
 In this workshop, we will explore the world of voting technology. We will show you how cryptography can enhance the verifiability of an election, which is a challenge when a secret ballot needs to be obtained. We will discuss some real-world attempts at putting this type of cryptographic voting into practice. We will also discuss ways it can go wrong---from subtle cryptographic oversights to broader forms of cybersecurity attacks. Finally, we will focus on the issue of internet voting: if you can bank online, why can't you vote online? It turns out there are a few good reasons.
