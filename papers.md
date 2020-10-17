@@ -2,59 +2,76 @@
 
 1. Efficient Lattice-Based Polynomial Evaluation and Batch Zero-Knowledge Arguments
 Veronika Kuchta (Monash University, Australia), Amin Sakzad (Monash University, Australia), Ron Steinfeld (Monash University, Australia), and Joseph K. Liu (Monash University, Australia)
-[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
+	* [Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 2. On Self-Equivalence Encodings in White-Box Implementations
 Adrián Ranea (imec-COSIC KU Leuven, Belgium) and Bart Preneel (imec-COSIC KU Leuven, Belgium)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 3. Weak-Key Distinguishers for AES
 Lorenzo Grassi (Radboud University, The Netherlands), Gregor Leander (Ruhr-Universität Bochum,  Germany), Christian Rechberger (Graz University of Technology, Austria), Cihangir Tezcan (Middle East Technical University, Turkey), and Friedrich Wiemer (Ruhr-Universität Bochum, Germany)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 4. Low-gate Quantum Golden Collision Finding
 Samuel Jaques (University of Oxford, UK) and André Schrottenloher (Inria, France)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 5. Not enough LESS: An improved algorithm for solving Code Equivalence Problems over Fq
 Ward Beullens (imec-COSIC, KU Leuven, Belgium)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 6. FROST: Flexible Round-Optimized Schnorr Threshold Signatures
 Chelsea Komlo (University of Waterloo, Canada and Zcash Foundation, Blockchain) and Ian Goldberg (University of Waterloo, Canada)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 7.  Algebraic Key-Recovery Attacks on Reduced-Round Xoofff
 Tingting Cui (Radboud University, The Netherland) and Lorenzo Grassi (Radboud University, The Netherland)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 8. PRINCEv2: More Security for (Almost) No Overhead
 Dušan Božilov: (NXP Semiconductors, Belgium and  KU Leuven, Belgium and imec,  Belgium), Maria Eichlseder (Graz University of Technology, Austria and Ruhr-Universität Bochum, Germany), Miroslav Knežević (NXP Semiconductors, Belgium), Baptiste Lambin (Ruhr-Universität Bochum, Germany), Gregor Leander (Ruhr-Universität Bochum, Germany and cryptosolutions, Germany), Thorben Moos (Ruhr-Universität Bochum, Germany), Ventzislav Nikov (NXP Semiconductors, Belgium), Shahram Rasoolzadeh (Ruhr-Universität Bochum, Germany), Yosuke Todo (NTT Secure Platform Laboratories, Japan and Ruhr-Universität Bochum,  Germany), and Friedrich Wiemer (Ruhr-Universität Bochum, Germany and cryptosolutions, Germany)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 9. Algorithmic Acceleration of B/FV-like Somewhat Homomorphic Encryption for Compute-Enabled RAM
 Jonathan Satoshi Takeshita (University of Notre Dame, USA), Dayane Reis (University of Notre Dame, USA), Ting Gong (University of Notre Dame, USA), Michael Niemier (University of Notre Dame, USA), X. Sharon Hu (University of Notre Dame, USA), and Taeho Jung (University of Notre Dame, USA)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 10. Obfuscating Finite Automata
 Steven D. Galbraith (University of Auckland, New Zealand) and Lukas Zobernig (University of Auckland, New Zealand)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 11.  Improved (Related-key) Differential Cryptanalysis on GIFT
 Fulei Ji (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Zhang Wentao (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Chunning Zhou (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), and Tianyou Ding (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 12. Boolean Polynomials, BDDs and CRHS Equations - Connecting the Dots with CryptaPath
 John-Petter Indrøy (Simula UiB, Norway), Nicolas Costes (Simula UiB, Norway), and
 Håvard Raddum (Simula UiB, Norway)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 13. Boolean Ring Cryptographic Equation Solving
 Sean Murphy (Royal Holloway, University of London, UK), Maura Paterson (Birkbeck, University of London, UK), and Christine Swart (University of Cape Town, South Africa)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 14. Towards Post-Quantum Security for Signal's X3DH Handshake
 Jacqueline Brendel (CISPA Helmholtz Center for Information Security, Germany), Marc Fischlin (Technische Universität Darmstadt, Germany), Felix Günther (ETH Zürich, Switzerland), Christian Janson (Technische Universität Darmstadt, Germany), and Douglas Stebila (University of Waterloo, Canada)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 15. Subsampling and Knowledge Distillation On Adversarial Examples: New Techniques for Deep Learning Based Side Channel Evaluations
 Aron Gohr (BSI, Germany), Sven Jacob (BSI, Germany), and Werner Schindler (BSI, Germany)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 16. Unintended Features of APIs: Cryptanalysis of Incremental HMAC
 Gal Benmocha (Technion - Israel Institute of Technology, Israel), Eli Biham  (Technion - Israel Institute of Technology, Israel), and Stav Perle (Technion - Israel Institute of Technology, Israel)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 17. Trapdoor DDH groups from pairings and isogenies
 Péter Kutas (University of Birmingham, UK), Christophe Petit (Université Libre de Bruxelles, Belgium and University of Birmingham, UK), and Javier Silva (Universitat Pompeu Fabra, Spain)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 18. On Index Calculus Algorithms for Subfield Curves
 Steven D. Galbraith (University of Auckland, New Zealand), Robert Granger (University of Surrey, UK), Simon-Philipp Merz (Royal Holloway, University of London, UK), and Christophe Petit (Free University of Brussels, Belgium and University of Birmingham, UK)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 19. Correlation Power Analysis and Higher-order Masking Implementation of WAGE
 Yunsi Fei (Northeastern University, USA), Guang Gong (University of Waterloo, Canada), Cheng Gongye (Northeastern University, USA), Kalikinkar Mandal (University of New Brunswick, Canada), Raghvendra Rohit (University of Waterloo, Canada), Tianhong Xu (Northeastern University, USA), Yunjie Yi (University of Waterloo, Canada), and Nusa Zidaric (University of Waterloo, Canada) 
