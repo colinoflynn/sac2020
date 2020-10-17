@@ -4,6 +4,16 @@ The summer school is a chance to learn in a more in-depth manner from several of
 
 The full program is held on [ResearchSeminars.org SAC2020-School](https://researchseminars.org/seminar/SAC2020-School) which allows you to change the date/time to your local time zone.
 
+## Zoom Session
+
+The Zoom Session for talks (separate from summer school) is available at the following link:
+
+* [https://ucalgary.zoom.us/j/94900361079](https://ucalgary.zoom.us/j/91523488202)
+* Meeting ID: 949 0036 1079
+
+**NB**: The meeting is password protected to registered attendees. You will receive an email with the password.
+
+
 ## Mathematics of Cryptography - Topic 1
 
 ### Modern elliptic curve cryptography

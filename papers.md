@@ -3,18 +3,22 @@
 1. Efficient Lattice-Based Polynomial Evaluation and Batch Zero-Knowledge Arguments
 Veronika Kuchta (Monash University, Australia), Amin Sakzad (Monash University, Australia), Ron Steinfeld (Monash University, Australia), and Joseph K. Liu (Monash University, Australia)
 	* [Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
-
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=OxXdGFj901c)
+	
 2. On Self-Equivalence Encodings in White-Box Implementations
 Adrián Ranea (imec-COSIC KU Leuven, Belgium) and Bart Preneel (imec-COSIC KU Leuven, Belgium)
 	* [Download Preprint 📝](\files\preproceedings\02-Whitebox.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=3rFGAneCcww)
 
 3. Weak-Key Distinguishers for AES
 Lorenzo Grassi (Radboud University, The Netherlands), Gregor Leander (Ruhr-Universität Bochum,  Germany), Christian Rechberger (Graz University of Technology, Austria), Cihangir Tezcan (Middle East Technical University, Turkey), and Friedrich Wiemer (Ruhr-Universität Bochum, Germany)
 	* [Download Preprint 📝](\files\preproceedings\03-WeakKey.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=QFqGB0Cp_d8)
 
 4. Low-gate Quantum Golden Collision Finding
 Samuel Jaques (University of Oxford, UK) and André Schrottenloher (Inria, France)
 	* [Download Preprint 📝](\files\preproceedings\04-QuantumSearch.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=Y3_da4hUWVg)
 
 5. Not enough LESS: An improved algorithm for solving Code Equivalence Problems over Fq
 Ward Beullens (imec-COSIC, KU Leuven, Belgium)
@@ -23,31 +27,38 @@ Ward Beullens (imec-COSIC, KU Leuven, Belgium)
 6. FROST: Flexible Round-Optimized Schnorr Threshold Signatures
 Chelsea Komlo (University of Waterloo, Canada and Zcash Foundation, Blockchain) and Ian Goldberg (University of Waterloo, Canada)
 	* [Download Preprint 📝](\files\preproceedings\06-Frost.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=g3RX4IXAtrE)
 
 7.  Algebraic Key-Recovery Attacks on Reduced-Round Xoofff
 Tingting Cui (Radboud University, The Netherland) and Lorenzo Grassi (Radboud University, The Netherland)
 	* [Download Preprint 📝](\files\preproceedings\07-Xoofff.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=V_XS2pHjGw0)
 
 8. PRINCEv2: More Security for (Almost) No Overhead
 Dušan Božilov: (NXP Semiconductors, Belgium and  KU Leuven, Belgium and imec,  Belgium), Maria Eichlseder (Graz University of Technology, Austria and Ruhr-Universität Bochum, Germany), Miroslav Knežević (NXP Semiconductors, Belgium), Baptiste Lambin (Ruhr-Universität Bochum, Germany), Gregor Leander (Ruhr-Universität Bochum, Germany and cryptosolutions, Germany), Thorben Moos (Ruhr-Universität Bochum, Germany), Ventzislav Nikov (NXP Semiconductors, Belgium), Shahram Rasoolzadeh (Ruhr-Universität Bochum, Germany), Yosuke Todo (NTT Secure Platform Laboratories, Japan and Ruhr-Universität Bochum,  Germany), and Friedrich Wiemer (Ruhr-Universität Bochum, Germany and cryptosolutions, Germany)
 	* [Download Preprint 📝](\files\preproceedings\08-PrinceV2.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=YBxb1oWb8OQ)
 
 9. Algorithmic Acceleration of B/FV-like Somewhat Homomorphic Encryption for Compute-Enabled RAM
 Jonathan Satoshi Takeshita (University of Notre Dame, USA), Dayane Reis (University of Notre Dame, USA), Ting Gong (University of Notre Dame, USA), Michael Niemier (University of Notre Dame, USA), X. Sharon Hu (University of Notre Dame, USA), and Taeho Jung (University of Notre Dame, USA)
 	* [Download Preprint 📝](\files\preproceedings\09-BFV.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=1NaciJgI4kM)
 
 10. Obfuscating Finite Automata
 Steven D. Galbraith (University of Auckland, New Zealand) and Lukas Zobernig (University of Auckland, New Zealand)
 	* [Download Preprint 📝](\files\preproceedings\10-FiniteAutomata.pdf)
+	* [Watch Full Video 📺](
 
 11.  Improved (Related-key) Differential Cryptanalysis on GIFT
 Fulei Ji (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Zhang Wentao (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Chunning Zhou (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), and Tianyou Ding (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China)
 	* [Download Preprint 📝](\files\preproceedings\11-GIFT.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=gIl0nDscSTY)
 
 12. Boolean Polynomials, BDDs and CRHS Equations - Connecting the Dots with CryptaPath
 John-Petter Indrøy (Simula UiB, Norway), Nicolas Costes (Simula UiB, Norway), and
 Håvard Raddum (Simula UiB, Norway)
 	* [Download Preprint 📝](\files\preproceedings\12-CryptaPath.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=0H1VxG7CJKU)
 
 13. Boolean Ring Cryptographic Equation Solving
 Sean Murphy (Royal Holloway, University of London, UK), Maura Paterson (Birkbeck, University of London, UK), and Christine Swart (University of Cape Town, South Africa)
@@ -56,6 +67,7 @@ Sean Murphy (Royal Holloway, University of London, UK), Maura Paterson (Birkbeck
 14. Towards Post-Quantum Security for Signal's X3DH Handshake
 Jacqueline Brendel (CISPA Helmholtz Center for Information Security, Germany), Marc Fischlin (Technische Universität Darmstadt, Germany), Felix Günther (ETH Zürich, Switzerland), Christian Janson (Technische Universität Darmstadt, Germany), and Douglas Stebila (University of Waterloo, Canada)
 	* [Download Preprint 📝](\files\preproceedings\14-X3DH.pdf)
+	* [Watch Full Video ](https://www.youtube.com/watch?v=0mdGF_BUXvc)
 
 15. Subsampling and Knowledge Distillation On Adversarial Examples: New Techniques for Deep Learning Based Side Channel Evaluations
 Aron Gohr (BSI, Germany), Sven Jacob (BSI, Germany), and Werner Schindler (BSI, Germany)
@@ -95,10 +107,12 @@ Guilherme Perin (Delft University of Technology, Netherlands) and Stjepan Picek 
 
 24. Interpolation Cryptanalysis of UFNs with Low Degree Round Functions
 Arnab Roy (AAU Klagenfurt, Austria), Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), and Ferdinand Sauer (KU Leuven, Belgium and KIT, Germany)
-	* [Download Preprint 📝](\files\preproceedings\24-Practical.pdf)
+	* [Download Preprint 📝](\files\preproceedings\24-UFN.pdf)
 
 25. Practical Isogeny-Based Key-exchange with Optimal Tightness
 Bor de Kock (NTNU - Norwegian University of Science and Technology, Norway), Kristian Gjøsteen (NTNU - Norwegian University of Science and Technology, Norway), and Mattia Veroni (NTNU - Norwegian University of Science and Technology, Norway)
+	* [Download Preprint 📝](\files\preproceedings\25-Practical.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=7bYOqhKhIag)
 	
 
 26. Improvements to quantum search techniques for block-ciphers, with applications to AES

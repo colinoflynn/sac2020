@@ -5,6 +5,17 @@ The full program is held on [ResearchSeminars.org](https://researchseminars.org/
 For each topic, you can find the links to the Zulip stream, the preproceedings of the PDF, and the recorded video:
 ![](/images/talkstuff.png)
 
+You can find copies of the preprint and video links on the [List of Accepted Papers](papers.html) page too.
+
+## Zoom Session
+
+The Zoom Session for talks (separate from summer school) is available at the following link:
+
+* [https://ucalgary.zoom.us/j/91523488202](https://ucalgary.zoom.us/j/91523488202)
+* Meeting ID: 915 2348 8202
+
+**NB**: The meeting is password protected to registered attendees. You will receive an email with the password.
+
 ## Time Zone
 
 The majority of the event is designed to be held roughly in "Atlantic Canada" time zone, however some sessions are in Asia/Oceania-friendly time-zone. You'll notice thus a few large gaps in the program, that are not mistakes.
