@@ -2,6 +2,8 @@
 
 The summer school is a chance to learn in a more in-depth manner from several of our expert speakers. The remote format will prevent in-person discussion, but the summer schools will still use a heavily interactive component.
 
+The full program is held on [ResearchSeminars.org SAC2020-School](https://researchseminars.org/seminar/SAC2020-School) which allows you to change the date/time to your local time zone.
+
 ## Mathematics of Cryptography - Topic 1
 
 ### Modern elliptic curve cryptography
