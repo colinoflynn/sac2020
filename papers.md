@@ -2,6 +2,7 @@
 
 1. Efficient Lattice-Based Polynomial Evaluation and Batch Zero-Knowledge Arguments
 Veronika Kuchta (Monash University, Australia), Amin Sakzad (Monash University, Australia), Ron Steinfeld (Monash University, Australia), and Joseph K. Liu (Monash University, Australia)
+[Download Preprint 📝](\files\preproceedings\01-LB-Batch.pdf)
 
 2. On Self-Equivalence Encodings in White-Box Implementations
 Adrián Ranea (imec-COSIC KU Leuven, Belgium) and Bart Preneel (imec-COSIC KU Leuven, Belgium)

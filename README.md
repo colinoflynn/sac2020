@@ -9,6 +9,7 @@ SAC 2020 is held in co-operation with the International Association for Cryptolo
 ---
 **RECENT UPDATES**
 
+* October 17/2020 - Links to schedule posted in Program & Summer School pages.
 * October 1/2020 - <a href="summerschool.html"><b>Summer School</b></a> program posted.
 * October 1/2020 - Invited Talks info posted on <a href="program.html"><b>Program</b></a> page.
 * Sept 24/2020 - List of <a href="papers.html"><b>Accepted Papers</b></a> Published.
@@ -28,5 +29,3 @@ SAC 2020 is held in co-operation with the International Association for Cryptolo
 * **Pre-proceedings version deadline:**  8th Oct, 2020
 * **'Summer' School**: 19/20 October, 2020
 * **Conference dates:**  21/22/23 October, 2020
-
-## Sponsors

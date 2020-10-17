@@ -5,6 +5,10 @@ The full program is held on [ResearchSeminars.org](https://researchseminars.org/
 For each topic, you can find the links to the Zulip stream, the preproceedings of the PDF, and the recorded video:
 ![](/images/talkstuff.png)
 
+## Time Zone
+
+The majority of the event is designed to be held roughly in "Atlantic Canada" time zone, however some sessions are in Asia/Oceania-friendly time-zone. You'll notice thus a few large gaps in the program, that are not mistakes.
+
 ## Invited Talks
 ### Invited Talk #1: Trustless groups of unknown order
 
