@@ -47,7 +47,7 @@ Jonathan Satoshi Takeshita (University of Notre Dame, USA), Dayane Reis (Univers
 10. Obfuscating Finite Automata
 Steven D. Galbraith (University of Auckland, New Zealand) and Lukas Zobernig (University of Auckland, New Zealand)
 	* [Download Preprint 📝](\files\preproceedings\10-FiniteAutomata.pdf)
-	* [Watch Full Video 📺](
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=gIl0nDscSTY)
 
 11.  Improved (Related-key) Differential Cryptanalysis on GIFT
 Fulei Ji (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Zhang Wentao (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Chunning Zhou (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), and Tianyou Ding (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China)
