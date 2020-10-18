@@ -96,6 +96,7 @@ Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), Amit Singh Bhati
 21. Protecting the Privacy of Voters: New Definitions of Ballot Secrecy for E-Voting
 Ashley Fraser (Royal Holloway, University of London, UK) and Elizabeth A. Quaglia (Royal Holloway, University of London, UK)
 	* [Download Preprint 📝](\files\preproceedings\21-VotersPrivacy.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=E81YHPrp910)
 
 22. WARP: Revisiting GFN for Lightweight 128-bit Block Cipher
  Subhadeep Banik (EPFL, Switzerland), Zhenzhen Bao (NTU, Singapore), Takanori Isobe (University of Hyogo, Japan and NICT, Japan), Hiroyasu Kubo (NEC Solution Innovators, Japan), Fukang Liu (University of Hyogo, Japan and East China Normal University, China), Kazuhiko Minematsu (NEC, Japan), Kosei Sakamoto (University of Hyogo, Japan), Nao Shibata (NEC Solution Innovators, Japan), and Maki Shigeri (NEC Solution Innovators, Japan)
