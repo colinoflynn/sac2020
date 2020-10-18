@@ -124,3 +124,4 @@ James H. Davenport (University of Bath, UK) and Benjamin Pring (University of So
 27. High-Throughput Elliptic Curve Cryptography using AVX2 Vector Instructions
 Hao Cheng (University of Luxembourg, Luxembourg), Johann Groszschaedl (University of Luxembourg, Luxembourg), Jiaqi Tian (University of Luxembourg, Luxembourg), Peter B. Roenne (University of Luxembourg, Luxembourg), and Peter Y. A. Ryan (University of Luxembourg, Luxembourg)
 	* [Download Preprint 📝](\files\preproceedings\27-HighThroughput.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=or-306XrEQY)
