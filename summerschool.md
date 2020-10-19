@@ -29,6 +29,7 @@ including Curve25519/X25519 key exchange and contemporary elliptic curve
 signature schemes.
 
 * [Slides Part 1](\files\slides\SAC-Summer-Smith-ECC-1.pdf)
+* [Slides Part 2](\files\slides\SAC-Summer-Smith-ECC-2.pdf)
 
 ## Mathematics of Cryptography - Topic 2
 
