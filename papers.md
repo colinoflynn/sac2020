@@ -23,6 +23,7 @@ Samuel Jaques (University of Oxford, UK) and André Schrottenloher (Inria, Franc
 5. Not enough LESS: An improved algorithm for solving Code Equivalence Problems over Fq
 Ward Beullens (imec-COSIC, KU Leuven, Belgium)
 	* [Download Preprint 📝](\files\preproceedings\05-LESS.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=p60XOQDZdtg)
 
 6. FROST: Flexible Round-Optimized Schnorr Threshold Signatures
 Chelsea Komlo (University of Waterloo, Canada and Zcash Foundation, Blockchain) and Ian Goldberg (University of Waterloo, Canada)
@@ -88,6 +89,7 @@ Steven D. Galbraith (University of Auckland, New Zealand), Robert Granger (Unive
 19. Correlation Power Analysis and Higher-order Masking Implementation of WAGE
 Yunsi Fei (Northeastern University, USA), Guang Gong (University of Waterloo, Canada), Cheng Gongye (Northeastern University, USA), Kalikinkar Mandal (University of New Brunswick, Canada), Raghvendra Rohit (University of Waterloo, Canada), Tianhong Xu (Northeastern University, USA), Yunjie Yi (University of Waterloo, Canada), and Nusa Zidaric (University of Waterloo, Canada) 
 	* [Download Preprint 📝](\files\preproceedings\19-WAGE.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=YPiQLm8osgE)
 
 20. Nonce-Misuse Security of the SAEF Authenticated Encryption Mode
 Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), Amit Singh Bhati (imec-COSIC, KU Leuven, Belgium), and Damian Vizár (CSEM, Switzerland)
