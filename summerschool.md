@@ -28,6 +28,7 @@ Then, we will dive into the design of state-of-the-art ECC protocols,
 including Curve25519/X25519 key exchange and contemporary elliptic curve
 signature schemes.
 
+* [Slides Part 1](\files\slides\SAC-Summer-Smith-ECC-1.pdf)
 
 ## Mathematics of Cryptography - Topic 2
 
