@@ -7,7 +7,7 @@ Veronika Kuchta (Monash University, Australia), Amin Sakzad (Monash University, 
 	
 2. On Self-Equivalence Encodings in White-Box Implementations
 Adrián Ranea (imec-COSIC KU Leuven, Belgium) and Bart Preneel (imec-COSIC KU Leuven, Belgium)
-	* [Download Preprint 📝](\files\preproceedings\02-Whitebox.pdf)
+	* [Download Preprint 📝](\files\preproceedings\02-WhiteBox.pdf)
 	* [Watch Full Video 📺](https://www.youtube.com/watch?v=3rFGAneCcww)
 
 3. Weak-Key Distinguishers for AES
