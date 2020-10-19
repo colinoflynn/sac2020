@@ -76,7 +76,7 @@ Aron Gohr (BSI, Germany), Sven Jacob (BSI, Germany), and Werner Schindler (BSI, 
 
 16. Unintended Features of APIs: Cryptanalysis of Incremental HMAC
 Gal Benmocha (Technion - Israel Institute of Technology, Israel), Eli Biham  (Technion - Israel Institute of Technology, Israel), and Stav Perle (Technion - Israel Institute of Technology, Israel)
-
+	* [Download Preprint 📝](\files\preproceedings\16-Unintended.pdf)
 
 17. Trapdoor DDH groups from pairings and isogenies
 Péter Kutas (University of Birmingham, UK), Christophe Petit (Université Libre de Bruxelles, Belgium and University of Birmingham, UK), and Javier Silva (Universitat Pompeu Fabra, Spain)
