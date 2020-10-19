@@ -68,11 +68,12 @@ Sean Murphy (Royal Holloway, University of London, UK), Maura Paterson (Birkbeck
 14. Towards Post-Quantum Security for Signal's X3DH Handshake
 Jacqueline Brendel (CISPA Helmholtz Center for Information Security, Germany), Marc Fischlin (Technische Universität Darmstadt, Germany), Felix Günther (ETH Zürich, Switzerland), Christian Janson (Technische Universität Darmstadt, Germany), and Douglas Stebila (University of Waterloo, Canada)
 	* [Download Preprint 📝](\files\preproceedings\14-X3DH.pdf)
-	* [Watch Full Video ](https://www.youtube.com/watch?v=0mdGF_BUXvc)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=0mdGF_BUXvc)
 
 15. Subsampling and Knowledge Distillation On Adversarial Examples: New Techniques for Deep Learning Based Side Channel Evaluations
 Aron Gohr (BSI, Germany), Sven Jacob (BSI, Germany), and Werner Schindler (BSI, Germany)
 	* [Download Preprint 📝](\files\preproceedings\15-Subsampling.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=CA8-P9cmrlI)
 
 16. Unintended Features of APIs: Cryptanalysis of Incremental HMAC
 Gal Benmocha (Technion - Israel Institute of Technology, Israel), Eli Biham  (Technion - Israel Institute of Technology, Israel), and Stav Perle (Technion - Israel Institute of Technology, Israel)
