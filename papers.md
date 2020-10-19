@@ -52,6 +52,7 @@ Steven D. Galbraith (University of Auckland, New Zealand) and Lukas Zobernig (Un
 
 11.  Improved (Related-key) Differential Cryptanalysis on GIFT
 Fulei Ji (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Zhang Wentao (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), Chunning Zhou (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China), and Tianyou Ding (State Key Laboratory of Information Security, Chinese Academy of Sciences, China and University of Chinese Academy of Sciences, China)
+
 	* [Download Preprint 📝](\files\preproceedings\11-GIFT.pdf)
 	* [Watch Full Video 📺](https://www.youtube.com/watch?v=gIl0nDscSTY)
 
