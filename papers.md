@@ -104,6 +104,7 @@ Ashley Fraser (Royal Holloway, University of London, UK) and Elizabeth A. Quagli
 22. WARP: Revisiting GFN for Lightweight 128-bit Block Cipher
  Subhadeep Banik (EPFL, Switzerland), Zhenzhen Bao (NTU, Singapore), Takanori Isobe (University of Hyogo, Japan and NICT, Japan), Hiroyasu Kubo (NEC Solution Innovators, Japan), Fukang Liu (University of Hyogo, Japan and East China Normal University, China), Kazuhiko Minematsu (NEC, Japan), Kosei Sakamoto (University of Hyogo, Japan), Nao Shibata (NEC Solution Innovators, Japan), and Maki Shigeri (NEC Solution Innovators, Japan)
 	* [Download Preprint 📝](\files\preproceedings\22-WARP.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=XX4Unupfr0Q)
 
 23. On the Influence of Optimizers in Deep Learning-based Side-Channel Analysis
 Guilherme Perin (Delft University of Technology, Netherlands) and Stjepan Picek (Delft University of Technology, Netherlands)
