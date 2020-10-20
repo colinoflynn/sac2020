@@ -78,6 +78,7 @@ Aron Gohr (BSI, Germany), Sven Jacob (BSI, Germany), and Werner Schindler (BSI, 
 16. Unintended Features of APIs: Cryptanalysis of Incremental HMAC
 Gal Benmocha (Technion - Israel Institute of Technology, Israel), Eli Biham  (Technion - Israel Institute of Technology, Israel), and Stav Perle (Technion - Israel Institute of Technology, Israel)
 	* [Download Preprint 📝](\files\preproceedings\16-Unintended.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=hYDD_rI_8tU)
 
 17. Trapdoor DDH groups from pairings and isogenies
 Péter Kutas (University of Birmingham, UK), Christophe Petit (Université Libre de Bruxelles, Belgium and University of Birmingham, UK), and Javier Silva (Universitat Pompeu Fabra, Spain)
@@ -111,6 +112,7 @@ Ashley Fraser (Royal Holloway, University of London, UK) and Elizabeth A. Quagli
 23. On the Influence of Optimizers in Deep Learning-based Side-Channel Analysis
 Guilherme Perin (Delft University of Technology, Netherlands) and Stjepan Picek (Delft University of Technology, Netherlands)
 	* [Download Preprint 📝](\files\preproceedings\23-DeepLearning.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=iHgXXrHZrT8)
 
 24. Interpolation Cryptanalysis of UFNs with Low Degree Round Functions
 Arnab Roy (AAU Klagenfurt, Austria), Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), and Ferdinand Sauer (KU Leuven, Belgium and KIT, Germany)
