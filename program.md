@@ -47,7 +47,7 @@ We're learning something about democracy and security as we go, but unfortunatel
 
 I'll conclude with some positive developments, including Risk-Limiting Audits and pollsite e-voting systems, and why I think those directions are more promising than paperless Internet voting.
 
-####About the Speaker
+#### About the Speaker
 Vanessa Teague is the CEO of Thinking Cybersecurity and Associate Prof (Adj.) in the Research School of Computer Science at the Australian National University.  Her research focuses primarily on cryptographic methods for achieving security and privacy, particularly for issues of public interest such as election integrity and the protection of government data. She was part of the team (with Chris Culnane and Ben Rubinstein) who discovered the easy re-identification of doctors and patients in the Medicare/PBS open dataset released by the Australian Department of Health. She has co-designed numerous protocols for improved election integrity in e-voting systems, and co-discovered serious weaknesses in the cryptography of deployed e-voting systems in New South Wales, Western Australia and Switzerland. She lives and works on Wurundjeri land in Southeastern Australia (near Melbourne). 
 
 ## List of Accepted Papers
