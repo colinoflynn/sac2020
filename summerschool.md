@@ -40,6 +40,8 @@ signature schemes.
 
 **Antoine Joux**,  *CISPA Helmholtz-Zentrum*
 
+* [Slides](\files\slides\SAC-Summer-Joux.pdf)
+
 In this lecture, we will discuss several aspects of polynomial equations and their use in cryptography. We will first motivate the topic be showing some uses of such systems in cryptography. Then, we will turn to the cryptanalytic aspects, describing algorithmic techniques to solve such systems. In this part, we start be recalling the easy special cases before turning to the general case of non-linear multivariate systems (over finite fields). We will discuss three different approaches, exhaustive search, algebraic methods (aka as Groebner bases or XL computations) and probabilistic degree reduction (introduced by Lokshtanov et al.).
 
 ## Secure Elections
@@ -48,6 +50,7 @@ In this lecture, we will discuss several aspects of polynomial equations and the
 
 **Jeremy Clark**, *Concordia University*
 
+* [Slides](\files\slides\SAC-Summer-Clark-1.pdf)
 * [Video Part 1](https://www.youtube.com/watch?v=ENyplEGhgZ0)
 * [Video Part 2](https://www.youtube.com/watch?v=YdpzMD2tK-s)
 
