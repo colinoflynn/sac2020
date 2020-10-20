@@ -82,6 +82,7 @@ Gal Benmocha (Technion - Israel Institute of Technology, Israel), Eli Biham  (Te
 17. Trapdoor DDH groups from pairings and isogenies
 Péter Kutas (University of Birmingham, UK), Christophe Petit (Université Libre de Bruxelles, Belgium and University of Birmingham, UK), and Javier Silva (Universitat Pompeu Fabra, Spain)
 	* [Download Preprint 📝](\files\preproceedings\17-TrapdoorDDH.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=UEYjEZYaEKQ)
 
 18. On Index Calculus Algorithms for Subfield Curves
 Steven D. Galbraith (University of Auckland, New Zealand), Robert Granger (University of Surrey, UK), Simon-Philipp Merz (Royal Holloway, University of London, UK), and Christophe Petit (Free University of Brussels, Belgium and University of Birmingham, UK)
