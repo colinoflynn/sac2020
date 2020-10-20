@@ -87,6 +87,7 @@ Péter Kutas (University of Birmingham, UK), Christophe Petit (Université Libre
 18. On Index Calculus Algorithms for Subfield Curves
 Steven D. Galbraith (University of Auckland, New Zealand), Robert Granger (University of Surrey, UK), Simon-Philipp Merz (Royal Holloway, University of London, UK), and Christophe Petit (Free University of Brussels, Belgium and University of Birmingham, UK)
 	* [Download Preprint 📝](\files\preproceedings\18-IndexCalculus.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=S_Qy0gL-4rk)
 
 19. Correlation Power Analysis and Higher-order Masking Implementation of WAGE
 Yunsi Fei (Northeastern University, USA), Guang Gong (University of Waterloo, Canada), Cheng Gongye (Northeastern University, USA), Kalikinkar Mandal (University of New Brunswick, Canada), Raghvendra Rohit (University of Waterloo, Canada), Tianhong Xu (Northeastern University, USA), Yunjie Yi (University of Waterloo, Canada), and Nusa Zidaric (University of Waterloo, Canada) 
