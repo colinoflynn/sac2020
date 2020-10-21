@@ -41,6 +41,8 @@ signature schemes.
 **Antoine Joux**,  *CISPA Helmholtz-Zentrum*
 
 * [Slides](\files\slides\SAC-Summer-Joux.pdf)
+* * [Video Part 1](https://www.youtube.com/watch?v=7Lq2sv-It4w)
+* [Video Part 2](https://www.youtube.com/watch?v=V2U_gAjHvGc)
 
 In this lecture, we will discuss several aspects of polynomial equations and their use in cryptography. We will first motivate the topic be showing some uses of such systems in cryptography. Then, we will turn to the cryptanalytic aspects, describing algorithmic techniques to solve such systems. In this part, we start be recalling the easy special cases before turning to the general case of non-linear multivariate systems (over finite fields). We will discuss three different approaches, exhaustive search, algebraic methods (aka as Groebner bases or XL computations) and probabilistic degree reduction (introduced by Lokshtanov et al.).
 
@@ -55,5 +57,8 @@ In this lecture, we will discuss several aspects of polynomial equations and the
 * [Video Part 2](https://www.youtube.com/watch?v=YdpzMD2tK-s)
 
 **Vanessa Teague**,  *Thinking Cybersecurity and Australian National* University 
+
+* [Video Part 1](https://www.youtube.com/watch?v=eYmd_JQ6pSk)
+* [Video Part 2](https://www.youtube.com/watch?v=2dJ97CvxoK8)
 
 In this workshop, we will explore the world of voting technology. We will show you how cryptography can enhance the verifiability of an election, which is a challenge when a secret ballot needs to be obtained. We will discuss some real-world attempts at putting this type of cryptographic voting into practice. We will also discuss ways it can go wrong---from subtle cryptographic oversights to broader forms of cybersecurity attacks. Finally, we will focus on the issue of internet voting: if you can bank online, why can't you vote online? It turns out there are a few good reasons.

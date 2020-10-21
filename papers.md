@@ -64,6 +64,7 @@ Håvard Raddum (Simula UiB, Norway)
 13. Boolean Ring Cryptographic Equation Solving
 Sean Murphy (Royal Holloway, University of London, UK), Maura Paterson (Birkbeck, University of London, UK), and Christine Swart (University of Cape Town, South Africa)
 	* [Download Preprint 📝](\files\preproceedings\13-BooleanRing.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=Y7PlZejjKm0)
 
 14. Towards Post-Quantum Security for Signal's X3DH Handshake
 Jacqueline Brendel (CISPA Helmholtz Center for Information Security, Germany), Marc Fischlin (Technische Universität Darmstadt, Germany), Felix Günther (ETH Zürich, Switzerland), Christian Janson (Technische Universität Darmstadt, Germany), and Douglas Stebila (University of Waterloo, Canada)
@@ -98,6 +99,7 @@ Yunsi Fei (Northeastern University, USA), Guang Gong (University of Waterloo, Ca
 20. Nonce-Misuse Security of the SAEF Authenticated Encryption Mode
 Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), Amit Singh Bhati (imec-COSIC, KU Leuven, Belgium), and Damian Vizár (CSEM, Switzerland)
 	* [Download Preprint 📝](\files\preproceedings\20-SAEF.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=vaiApHjImgU)
 
 21. Protecting the Privacy of Voters: New Definitions of Ballot Secrecy for E-Voting
 Ashley Fraser (Royal Holloway, University of London, UK) and Elizabeth A. Quaglia (Royal Holloway, University of London, UK)
