@@ -119,6 +119,7 @@ Guilherme Perin (Delft University of Technology, Netherlands) and Stjepan Picek 
 24. Interpolation Cryptanalysis of UFNs with Low Degree Round Functions
 Arnab Roy (AAU Klagenfurt, Austria), Elena Andreeva (Alpen-Adria University of Klagenfurt, Austria), and Ferdinand Sauer (KU Leuven, Belgium and KIT, Germany)
 	* [Download Preprint 📝](\files\preproceedings\24-UFN.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=rpS8j7G7Fgo)
 
 25. Practical Isogeny-Based Key-exchange with Optimal Tightness
 Bor de Kock (NTNU - Norwegian University of Science and Technology, Norway), Kristian Gjøsteen (NTNU - Norwegian University of Science and Technology, Norway), and Mattia Veroni (NTNU - Norwegian University of Science and Technology, Norway)
