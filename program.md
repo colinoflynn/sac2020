@@ -35,6 +35,8 @@ Benjamin Smith is a research scientist with INRIA, the French national computer 
 
 ### Invited Talk #2: What's so hard about Internet voting?
 
+[Watch Full Video 📺](https://www.youtube.com/watch?v=T_bbmn2VYvQ)
+
 **Vanessa Teague**, *Thinking Cybersecurity and Australian National University*
 
 The first papers about electronic voting were written only a year or two after the invention of public key cryptography.  It all seemed so simple: some voting codes, a mixnet or two, and we could have private and verifiable remote voting for everyone.  
