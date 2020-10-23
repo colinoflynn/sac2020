@@ -130,6 +130,7 @@ Bor de Kock (NTNU - Norwegian University of Science and Technology, Norway), Kri
 26. Improvements to quantum search techniques for block-ciphers, with applications to AES
 James H. Davenport (University of Bath, UK) and Benjamin Pring (University of South Florida, USA)
 	* [Download Preprint 📝](\files\preproceedings\26-Quantum.pdf)
+	* [Watch Full Video 📺](https://www.youtube.com/watch?v=UwL_KperrSE)
 
 
 27. High-Throughput Elliptic Curve Cryptography using AVX2 Vector Instructions
