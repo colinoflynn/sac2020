@@ -23,6 +23,8 @@ The majority of the event is designed to be held roughly in "Atlantic Canada" ti
 ## Invited Talks
 ### Invited Talk #1: Trustless groups of unknown order
 
+[Watch Full Video 📺](https://www.youtube.com/watch?v=yIKZ5RHolrs)
+
 **Benjamin Smith**, *INRIA and École Polytechnique*
 
 Groups of unknown order have cryptographic applications including time-lock puzzles, verifiable delay functions, and accumulators. While a trusted authority might simply choose an RSA group and be done with it, in the trustless setting the problem of generating cryptographically secure unknown-order groups is much more subtle. We will explore this problem, comparing two concrete constructions - class groups of quadratic imaginary fields, and Jacobians of  hyperelliptic curves - with a special focus on the surprisingly complicated issues of security levels and appropriate key sizes.
