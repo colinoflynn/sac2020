@@ -8,19 +8,8 @@ See the [Summer School](summerschool.html) link for full details includes slides
 
 **Ben Smith**,  *INRIA and École Polytechnique*
 
-* [Slides Part 1](\files\slides\SAC-Summer-Smith-ECC-1.pdf)
-* [Slides Part 2](\files\slides\SAC-Summer-Smith-ECC-2.pdf)
-
 * [Video Part 1](https://www.youtube.com/watch?v=0Vm31gijGvg)
 * [Video Part 2](https://www.youtube.com/watch?v=WF3MvCYCYBk)
-
-This is a very short course on the foundations of modern elliptic curve
-cryptography.  First, we will cover the basics on elliptic curves and
-their arithmetic, and the difficulty and inter-relationship of the
-Elliptic Curve Discrete Log and Elliptic Curve Diffie-Hellman problems.
-Then, we will dive into the design of state-of-the-art ECC protocols,
-including Curve25519/X25519 key exchange and contemporary elliptic curve
-signature schemes.
 
 #### Polynomial systems of equations and their cryptographic aspects
 
