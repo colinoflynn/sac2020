@@ -26,7 +26,7 @@ Ward Beullens (imec-COSIC, KU Leuven, Belgium)
 	* [Watch Full Video 📺](https://www.youtube.com/watch?v=p60XOQDZdtg)
 
 6. FROST: Flexible Round-Optimized Schnorr Threshold Signatures
-Chelsea Komlo (University of Waterloo, Canada and Zcash Foundation, Blockchain) and Ian Goldberg (University of Waterloo, Canada)
+Chelsea Komlo (University of Waterloo, Canada and Zcash Foundation) and Ian Goldberg (University of Waterloo, Canada)
 	* [Download Preprint 📝](\files\preproceedings\06-Frost.pdf)
 	* [Watch Full Video 📺](https://www.youtube.com/watch?v=g3RX4IXAtrE)
 
